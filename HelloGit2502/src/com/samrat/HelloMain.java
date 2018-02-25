@@ -12,9 +12,9 @@ public class HelloMain {
 
 System.out.println("Hello world");
 
-int[] i = {1 , 3, 8 , 10};
-for (int j : i) {
-	System.out.println(j);;
+int[] j = {1 , 3, 8 , 10};
+for (int jj : j) {
+	System.out.println(jj);;
 	
 }
 	}
