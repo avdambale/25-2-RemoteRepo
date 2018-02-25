@@ -7,7 +7,7 @@ System.out.println("Hello world");
 
 int[] i = {1 , 3, 8 , 10};
 for (int j : i) {
-	System.out.println(j);
+	System.out.println(j);;
 	
 }
 	}
